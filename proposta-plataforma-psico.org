@@ -1,0 +1,88 @@
+#+TITLE: Sobre plataforma de experimentos online
+#+AUTHOR: Rafael Beraldo (Unicamp) & Igor Costa (PUC-Rio)
+
+* O problema das pequenas amostras
+
+  A aplicação de atividades experimentais tem requerido cada vez mais participantes (ver discussão sobre as consequências de estudos /underpowered/, ou seja, com pequenas amostras e a crise de replicabilidade especificamente na psicolinguística em Gelman \& Vasishth, 2014. Ver também Schönbrodt \& Perugini (2013), Brysbaert \& Stevens (2018), Button et al (2013), Gelman \& Carlin (2014), dentre outros). 
+
+  Normalmente, os participantes são alunos de gradução das faculdades em que os professores atuam. Mesmo quando o experimento é divulgado para outras universidades e outros laboratórios, ainda assim poucos alunos participam das atividades. Anunciar a atividade em sala de aula, por exemplo, parece gerar algum efeito na atração de participantes para as atividades. Mesmo assim, esse engajamento ainda é pequeno. Algumas estratégias, porém, parecem funcionar melhor para atrair esses estudantes de maneira massiva: (i) vincular a feitura da atividade à entrega de Declaração de Horas de Atividades Complementares; (ii) vincular a feitura da atividade a uma pequena bonificação na nota do aluno.
+
+  O que fica claro, portanto, é que precisamos de uma parceria entre laboratórios a fim de divulgar, *efetivamente*, experimentos da comunidade de psicolinguistas do Brasil. Com isso, teríamos amostras maiores, obtidas mais rapidamente e não restrita apenas à área/região em que o pesquisador está vinculado. Apesar de esse não ser o cenário perfeito, visto que ainda ficaríamos restritos a amostras colhidas de falantes universitários jovens, em geral provenientes das classes média e alta, já seria um primeiro passo para evitar o problema das pequenas amostras, com apenas 30 ou 40 participantes.  
+
+  Um mapa dos laboratórios de psicolinguística do Brasil ([[https://igordeo-costa.github.io/about/][link aqui]] - levantamento pessoal e não exaustivo) mostra que a grande maioria deles está concentrada na costa ou em regiões próximas a ela, indo da região sul até a região nordeste). Pesquisadores esparsos, no entanto, começam a emergir no norte do país e na região centro-oeste. Desse modo, se os pesquisadores nessas regiões se engajarem *ativamente* na captação de participantes para as atividades experimentais uns dos outros, não apenas anunciando as atividades em suas aulas ou grupos de pesquisas, mas engajando os alunos nas tarefas, em breve teríamos uma comunidade mais integrada, produzindo experimentos com maior número de participantes e mais representativos da diversidade linguística do país.
+  
+* Proposta inicial
+
+  Elaborar uma plataforma /online/ em que os diversos laboratórios e pesquisadores do Brasil possam disponibilizar experimentos a fim de divulgá-los mais amplamente, para fora dos círculos das próprias universidades. Nessa plataforma, os pesquisadores cadastrariam seus experimentos com um pequeno texto descritivo (ver modelo anexo) bem como um link para que sejam acessados. Os diversos laboratórios, grupos de trabalho, programas de pós-graduação e pesquisadores, então, poderiam se vincular à plataforma como membros. Semanalmente, a plataforma divulgaria um boletim informativo a todos os membros com os experimentos que estão ali cadastrados. Os experimentos poderiam ser agrupados por áreas e/ou subáreas no momento do cadastro, de modo que os membros poderiam fazer divulgações mais direcionadas para determinados interesses. Por exemplo, um professor que deseje fazer um trabalho sobre orações relativas com os alunos, poderia, antes, pedir para que eles realizassem uma tarefa online e, a partir da tarefa, discutir questões pertinentes com os alunos. Desse modo, tenderia a haver maior engajamento na atividade.
+
+** O que será disponibilizado
+
+   A plataforma não hospederá o experimento (como o faz o PCIbex, por exemplo), mas apenas o link que direciona ao experimento.
+
+** Divulgação
+
+   Os pesquisadores e laboratórios interessados cadastrarão seus e-mails e, quando um experimento for cadastrado na plataforma, todos os e-mails cadastrados receberão a divulgação do experimento.
+
+   Alunos e pessoas interessadas em serem voluntários como participantes também poderão cadastrar seus e-mails de modo a receberem, eles próprios, a divulgação.
+
+** O que é preciso para cadastrar um experimento
+*** Termos técnicos
+   1. Pesquisador responsável
+   2. Orientador (se mestrando, doutorando ou aluno de IC)
+   3. Laboratório a que está vinculado
+   4. Universidade a que está vinculado
+   5. Protocolo de Aprovação por Comitê de Ética apropriado
+      
+*** Participantes potenciais
+   1. Existe alguma limitação sobre quem pode realizar o experimento?
+      
+*** Divulgação
+   1. Texto curto de divulgação do experimento
+   2. Link para acesso ao experimento
+   #+begin_export latex
+   #+end_export
+
+* Com quem falamos a respeito?
+** TODO [100%]
+   - [X] Ana Paula Jakubów (Ex-UERJ; LAPAL/PUC-Rio)
+   - [X] Mercedes Marcilese (NEALP/UFJF)
+   - [X] Thiago Motta (LAProS/UNICAMP)
+   - [X] Renê Forster (UERJ)
+
+* Notas sobre poder e tamanho da amostra
+** Schönbrodt & Perugini (2013)
+
+   Analisando a estabilização da correlação em função do tamanho da amostra, os autores mostram que os estudos típicos da psicologia apresentam um tamanho de efeito da ordem de .21. Assim, assumindo um poder de 80%, tipicamente requerido, concluem que: "...there are few occasions in which it may be justiﬁable to go below n = 150 and for typical research scenarios reasonable trade-offs between accuracy and conﬁdence start to be achieved when n approaches 250." Além disso: "Precise and stable estimates within a corridor of ±.05 need large samples beyond n = 1000, as has been noted before (Hunter & Schmidt, 2004; Maxwell et al., 2008). But this level of precision can only be achieved by a relatively small number of high-budget studies."
+
+** Brysbaert & Stevens (2018)
+
+   Mostrando como implementar simulações para calcular o poder de estudos que se valham de modelos mistos (apenas para os mais simples), demonstram que a relação entre número de participantes e de itens tem de ser equilibrada de modo a alcançar o poder adequado. Assim, um estudo com 120 participantes e 20 itens, teria apenas 51% de poder (ou seja, apenas 51% de probabilidade de encontrar um efeito quando de fato existe). Para alcançar 88% de poder, um estudo com 60 itens (!!!) teria que ter 100 participantes. (Ver Tabela 4: 09).
+   
+** Button et al (2013)
+
+   Trabalhando com meta-análise em diversos campos das neurociências, onde os estudos são muito custosos financeiramente, os autores mostram que o poder médio dos estudos é de 21%, ou seja, as amostras são muito pequenas para detectar um efeito mesmo quando ele existe. Além de gerar problemas de viés na literatura, inflando a quantidade de artigos publicados com tamanho de efeito grande (um consequência de pouco poder é a grande variabilidade nas estimativas, até mesmo a inversão do sinal - Type S error), tem também implicações éticas, por exemplo, na pesquisa com animais.
+
+** Gelman & Carlin (2014)
+
+   Demonstram como estudos com pouco poder geram dois tipos distintos de erros (além dos erros do Tipo I e II): os erros do Tipo M (Magnitude) e do Tipo S (Sinal). As estimativas desses estudos são muito instáveis e, portanto, geram resultados muito distantes do real efeito (erro do Tipo M) ou até mesmo com sinal invertido, ou seja, uma estimativa de correlação negativa quando o efeito real é de correlação positiva (erro do tipo S).
+
+   Para eles: "For studies with high power, the Type S error rate and the exaggeration ratio are low. But when power gets much below 0.5, the exaggeration ratio becomes high (that is, statistically significant estimates tend to be much larger in magnitude than true
+effect sizes). And when power goes below 0.1, the Type S error rate becomes high (that is, statistically significant estimates are likely to be the wrong sign)." (Legenda da Figura 2)
+** Vasishth & Gelman (2017)
+
+   Mostram como o fato de os pesquisadores na psicolinguística ignorarem a relação entre p-valor e poder do teste leva a um inchaço, na literatura, de artigos com efeitos significativos distantes do real efeito na população, promovendo uma crise de replicabilidade.
+
+   Para os autores, "Currently, the replication problems in psycholinguistics are serious. For example, in recent work (Mertzen, Jäger, & Vasishth, 2017) we carried out six replication attempts of two eyetracking experiments published in the Journal of Memory and Language. We were unable to replicate any of the claims in the paper. There is thus an urgent need to attempt to replicate published results, and not just in psycholinguistics."
+
+** Kumle et al. (2021)
+
+   Demonstrando como aplicar simulações para calcular poder, os autores mostram diferentes cenários (modelos, tipos de tarefas, etc.) e o tamanho da amostra adequado para alcançar um poder de 80%. Em geral, os valores recomendam cerca de 150 participantes para um poder aproximado de 80% (ver Figuras 6 e 7). Em um caso específico, eles informam sobre a relação entre número de participantes, de itens e poder, usando 100 itens como base:
+
+   "Using the data-based estimate, we would test 180 subjects.
+However, if the effect would be 15% smaller [...], even 180 subjects would not be enough to ensure adequate power."
+
+** Ver também
+   - Cohen (1962)
+   - Sedlmeier & Gigerenzer (1989)
+   - Matuschek et al. (2017)
+   - [[https://www.youtube.com/watch?v=r6ZR1VJWOwk&ab_channel=DanielLakens][Lakens, junho 2021. Sample size justification]]
