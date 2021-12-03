@@ -1,6 +1,8 @@
 #+TITLE: Sobre plataforma de experimentos online
 #+AUTHOR: Rafael Beraldo (Unicamp) & Igor Costa (PUC-Rio)
 
+A Plataforma Éris busca ser um espaço virtual que integre diferentes pesquisadores, das diversas áreas e subáreas da linguística brasileira que buscam fazer trabalhos experimentais, promovendo parcerias com as diversas universidades, instituições de classe, programas de pós-graduação e grupos de trabalho espalhados pelo Brasil.
+
 * O problema das pequenas amostras
 
 Há pelo menos uma década (Keller /et al./, 2009), experimentos de cronometria mental têm sido realizados na /web/ sem perturbar a qualidade dos dados. Avanços nas técnicas de experimentação remota têm permitido, entre outras vantagens, uma maior facilidade no recrutamento de grandes números de participantes[fn:1], que por sua vez podem constituir uma amostra mais diversa da população. Entretanto, para que possamos tirar proveito do acesso a um número cada vez maior de participantes, precisamos de métodos eficientes e confiáveis de recrutamento.
@@ -12,10 +14,10 @@ O que fica claro, portanto, é que precisamos de uma parceria entre laboratório
 Um mapa dos laboratórios de psicolinguística do Brasil ([[https://igordeo-costa.github.io/about/][link aqui]] – levantamento pessoal e não exaustivo) mostra que a grande maioria deles está concentrada na costa ou em regiões próximas a ela, indo da região sul até a região nordeste). Pesquisadores esparsos, no entanto, começam a emergir no norte do país e na região centro-oeste. Desse modo, se os pesquisadores nessas regiões se engajarem *ativamente* na captação de participantes para as atividades experimentais uns dos outros, não apenas anunciando as atividades em suas aulas ou grupos de pesquisas, mas engajando os alunos nas tarefas, em breve teríamos uma comunidade mais integrada, produzindo experimentos com maior número de participantes e mais representativos da diversidade linguística do país.
 
 #+attr_org: :width 500
-#+caption: Uma visão dos laboratórios e pesquisadores em psicolinguística no Brasil. Confira o mapa no [[https://igordeo-costa.github.io/about/][github.com]]
+#+caption: Uma visão dos laboratórios e pesquisadores em psicolinguística no Brasil. Confira o mapa interativo no [[https://igordeo-costa.github.io/about/][github.com]]
 [[./img/labs-do-brasil.png]]
 
-[fn:1] Sobre a aplicação de atividades experimentais ter requerido cada vez mais participantes, veja discussão sobre as consequências de estudos /underpowered/, ou seja, com pequenas amostras e a crise de replicabilidade especificamente na psicolinguística em Gelman & Vasishth, 2014. Ver também Schönbrodt & Perugini (2013), Brysbaert & Stevens (2018), Button et al (2013), Gelman & Carlin (2014), dentre outros.
+[fn:1] Sobre a aplicação de atividades experimentais ter requerido cada vez mais participantes, veja discussão sobre as consequências de estudos /underpowered/, ou seja, com pequenas amostras, e sua relação com a crise de replicabilidade na psicolinguística em Gelman & Vasishth, 2014. Ver também Schönbrodt & Perugini (2013), Brysbaert & Stevens (2018), Button et al (2013), Gelman & Carlin (2014), dentre outros.
 
 * Proposta inicial
 
