@@ -26,11 +26,13 @@ A plataforma não hospederá o experimento (como o faz o PCIbex, por exemplo), m
 
 ** Divulgação
 
-Os pesquisadores e laboratórios interessados cadastrarão seus e-mails e, quando um experimento for cadastrado na plataforma, receberão a divulgação do experimento.
+Os pesquisadores e laboratórios interessados cadastrarão seus e-mails e, quando um experimento for cadastrado na plataforma, receberão semanalmente um boletim informativo dos experimentos da semana.
 
 # Isso seria feito semanalmente?
 
 Alunos e pessoas interessadas em serem voluntários como participantes também poderão cadastrar seus e-mails de modo a receberem, eles próprios, a divulgação.
+
+# TODO: adicionar a ideia de que teremos redes sociais para angariar participantes da comunidade em geral.
 
 ** O que é preciso para cadastrar um experimento
 *** Termos técnicos
@@ -46,8 +48,18 @@ Alunos e pessoas interessadas em serem voluntários como participantes também p
 *** Divulgação
 1. Texto curto de divulgação do experimento
 2. Link para acesso ao experimento
-   #+begin_export latex
-   #+end_export
+
+*** Exemplo
+Os pesquisadores Fulana de Tal e Cicrano de Tal da Universidade Estadual X do Laboratório Y te convidam para participar do experimento chamado “Leitura Autocadenciada de Blablabla”.
+
+O experimento psicolinguístico envolve a leitura de frases a fim de verificar a sua interpretação sobre elas. Ao participar você contribuirá com o avanço do nosso entendimento de como a língua funciona.
+
+Ficou interessado? Clique no link abaixo para saber mais:
+- Link
+
+(Idealmente uma imagem ilustrativa.)
+
+Protocolo do experimento no CEP número 000.
 
 * Com quem falamos a respeito?
 ** TODO [100%]
@@ -55,6 +67,14 @@ Alunos e pessoas interessadas em serem voluntários como participantes também p
 - [X] Mercedes Marcilese (NEALP/UFJF)
 - [X] Thiago Motta (LAProS/UNICAMP)
 - [X] Renê Forster (UERJ)
+
+* Afazeres [0%]
+- [ ] Criar o mapa de estágios do projeto
+  - Estágio 1: Divulgação para programas de pós e indivíduos
+  - Estágio 2: Divulgação em redes sociais
+  - Estágio 3: Implementação dos experimentos itinerantes
+  - Estágio 4: …
+
 
 * Notas sobre poder e tamanho da amostra
 ** Schönbrodt & Perugini (2013)
