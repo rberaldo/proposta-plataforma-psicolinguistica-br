@@ -60,7 +60,7 @@ Ficou interessado? Clique no link abaixo para saber mais:
 
 (Idealmente uma imagem ilustrativa.)
 
-Protocolo do experimento no CEP número 000.
+Protocolo do experimento no Comitê de Ética número 000.
 #+end_quote
 
 * Com quem falamos a respeito?
