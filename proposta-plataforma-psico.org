@@ -1,6 +1,7 @@
 #+TITLE: Sobre plataforma de experimentos online
 #+AUTHOR: Rafael Beraldo (Unicamp) & Igor Costa (PUC-Rio)
 
+* Apresentação
 A Plataforma Éris busca ser um espaço virtual que integre diferentes pesquisadores, das diversas áreas e subáreas da linguística brasileira que buscam fazer trabalhos experimentais, promovendo parcerias com as diversas universidades, instituições de classe, programas de pós-graduação e grupos de trabalho espalhados pelo Brasil.
 
 * O problema das pequenas amostras
@@ -22,6 +23,22 @@ Um mapa dos laboratórios de psicolinguística do Brasil ([[https://igordeo-cost
 * Proposta inicial
 
 Elaborar uma plataforma /online/ em que os diversos laboratórios e pesquisadores do Brasil possam disponibilizar experimentos a fim de divulgá-los mais amplamente, para fora dos círculos das próprias universidades. Nessa plataforma, os pesquisadores cadastrariam seus experimentos com um pequeno texto descritivo (ver modelo anexo) bem como um link para que sejam acessados. Os diversos laboratórios, grupos de trabalho, programas de pós-graduação e pesquisadores, então, poderiam se vincular à plataforma como membros. Semanalmente, a plataforma divulgaria um boletim informativo a todos os membros com os experimentos que estão ali cadastrados. Os experimentos poderiam ser agrupados por áreas e/ou subáreas no momento do cadastro, de modo que os membros poderiam fazer divulgações mais direcionadas para determinados interesses. Por exemplo, um professor que deseje fazer um trabalho sobre orações relativas com os alunos, poderia, antes, pedir para que eles realizassem uma tarefa online e, a partir da tarefa, discutir questões pertinentes com os alunos. Desse modo, tenderia a haver maior engajamento na atividade.
+
+** Estratégia para angariar participantes
+
+1. Promover a colaboração com outros laboratórios, grupos de trabalho, programas de pós-graduação, empresas, instituições, pesquisadores (professores, mestrandos e doutorandos);
+
+2. Divulgação constante em mídias sociais e grupos especializados; experimentos que demandam grupos específicos poderiam gerar /posts/ direcionados a redes sociais desses grupos;
+
+3. Realização de /Snowball sampling/: pedir que cada participante do experimento indique mais dois amigos para realizar a tarefa. Poderia ser pensado algum tipo de bonificação para esses participantes. Por exemplo, se o participante indicar dois amigos, como se tivesse feito um experimento a mais na contabilização de horas de atividades complementares (ver 5, abaixo);
+
+4. Cadastrar participantes que desejem colaborar em experimentos futuros. Todos que participarem teriam a opção de cadastrar e-mail e/ou redes sociais, de modo a receberem novos experimentos quando estiverem disponíveis;
+
+5. Concessão de Horas de Atividades Complementares: Além das horas de atividades complementares que os alunos recebem por cada experimento, a plataforma poderia criar um sistema ``fidelidade'': para cada número X de experimentos realizados, o participante receberia um certificado valendo Y horas de atividades complementares;
+
+6. Promover divulgação direcionada a grupos específicos: por exemplo, falantes mineiros apenas (divulgação em grupos específicos dessa região nas redes sociais, nas listas de e-mail, etc.). (Para isso, precisamos criar uma espécie de /recruitment brief/ em que essas informações estejam claras...);
+
+7. É possível fornecer incentivos aos participantes? Financeiros, de algum modo? O que diz a legislação a respeito?
 
 ** O que será disponibilizado
 

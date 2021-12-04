@@ -1,4 +1,4 @@
-% Created 2021-12-04 sáb 08:48
+% Created 2021-12-04 sáb 08:47
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -29,13 +29,10 @@
 \maketitle
 \tableofcontents
 
-
-\section{Apresentação}
-\label{sec:org1356023}
 A Plataforma Éris busca ser um espaço virtual que integre diferentes pesquisadores, das diversas áreas e subáreas da linguística brasileira que buscam fazer trabalhos experimentais, promovendo parcerias com as diversas universidades, instituições de classe, programas de pós-graduação e grupos de trabalho espalhados pelo Brasil.
 
 \section{O problema das pequenas amostras}
-\label{sec:org7cd4935}
+\label{sec:org5cd9f26}
 
 Há pelo menos uma década (Keller \emph{et al.}, 2009), experimentos de cronometria mental têm sido realizados na \emph{web} sem perturbar a qualidade dos dados. Avanços nas técnicas de experimentação remota têm permitido, entre outras vantagens, uma maior facilidade no recrutamento de grandes números de participantes\footnote{Sobre a aplicação de atividades experimentais ter requerido cada vez mais participantes, veja discussão sobre as consequências de estudos \emph{underpowered}, ou seja, com pequenas amostras, e sua relação com a crise de replicabilidade na psicolinguística em Gelman \& Vasishth, 2014. Ver também Schönbrodt \& Perugini (2013), Brysbaert \& Stevens (2018), Button et al (2013), Gelman \& Carlin (2014), dentre outros.}, que por sua vez podem constituir uma amostra mais diversa da população. Entretanto, para que possamos tirar proveito do acesso a um número cada vez maior de participantes, precisamos de métodos eficientes e confiáveis de recrutamento.
 
@@ -52,12 +49,12 @@ Um mapa dos laboratórios de psicolinguística do Brasil (\href{https://igordeo-
 \end{figure}
 
 \section{Proposta inicial}
-\label{sec:org7967ccc}
+\label{sec:org913c526}
 
 Elaborar uma plataforma \emph{online} em que os diversos laboratórios e pesquisadores do Brasil possam disponibilizar experimentos a fim de divulgá-los mais amplamente, para fora dos círculos das próprias universidades. Nessa plataforma, os pesquisadores cadastrariam seus experimentos com um pequeno texto descritivo (ver modelo anexo) bem como um link para que sejam acessados. Os diversos laboratórios, grupos de trabalho, programas de pós-graduação e pesquisadores, então, poderiam se vincular à plataforma como membros. Semanalmente, a plataforma divulgaria um boletim informativo a todos os membros com os experimentos que estão ali cadastrados. Os experimentos poderiam ser agrupados por áreas e/ou subáreas no momento do cadastro, de modo que os membros poderiam fazer divulgações mais direcionadas para determinados interesses. Por exemplo, um professor que deseje fazer um trabalho sobre orações relativas com os alunos, poderia, antes, pedir para que eles realizassem uma tarefa online e, a partir da tarefa, discutir questões pertinentes com os alunos. Desse modo, tenderia a haver maior engajamento na atividade.
 
 \subsection{Estratégia para angariar participantes}
-\label{sec:orge6c1a11}
+\label{sec:org42c0a3f}
 
 \begin{enumerate}
 \item Promover a colaboração com outros laboratórios, grupos de trabalho, programas de pós-graduação, empresas, instituições, pesquisadores (professores, mestrandos e doutorandos);
@@ -76,21 +73,21 @@ Elaborar uma plataforma \emph{online} em que os diversos laboratórios e pesquis
 \end{enumerate}
 
 \subsection{O que será disponibilizado}
-\label{sec:org4a91759}
+\label{sec:org63dff2f}
 
 A plataforma não hospederá o experimento (como o faz o PCIbex, por exemplo), mas apenas o link que direciona ao experimento.
 
 \subsection{Divulgação}
-\label{sec:orgaf2db21}
+\label{sec:org44e0ea7}
 
 Os pesquisadores e laboratórios interessados cadastrarão seus e-mails e, quando um experimento for cadastrado na plataforma, receberão semanalmente um boletim informativo dos experimentos da semana.
 
 Alunos e pessoas interessadas em serem voluntários como participantes também poderão cadastrar seus e-mails de modo a receberem, eles próprios, a divulgação.
 
 \subsection{O que é preciso para cadastrar um experimento}
-\label{sec:org84be0b0}
+\label{sec:org152b2b5}
 \subsubsection{Termos técnicos}
-\label{sec:orgef7ca90}
+\label{sec:orga707a59}
 \begin{enumerate}
 \item Pesquisador responsável
 \item Orientador (se mestrando, doutorando ou aluno de IC)
@@ -100,20 +97,20 @@ Alunos e pessoas interessadas em serem voluntários como participantes também p
 \end{enumerate}
 
 \subsubsection{Participantes potenciais}
-\label{sec:orge59ac58}
+\label{sec:org7be42f0}
 \begin{enumerate}
 \item Existe alguma limitação sobre quem pode realizar o experimento?
 \end{enumerate}
 
 \subsubsection{Divulgação}
-\label{sec:org2dd50d0}
+\label{sec:orga94d6d5}
 \begin{enumerate}
 \item Texto curto de divulgação do experimento
 \item Link para acesso ao experimento
 \end{enumerate}
 
 \subsubsection{Exemplo}
-\label{sec:org942ecc5}
+\label{sec:org8ad0632}
 \begin{quote}
 Os pesquisadores Fulana de Tal e Cicrano de Tal da Universidade Estadual X do Laboratório Y te convidam para participar do experimento chamado “Leitura Autocadenciada de Blablabla”.
 
@@ -130,9 +127,9 @@ Protocolo do experimento no Comitê de Ética número 000.
 \end{quote}
 
 \section{Com quem falamos a respeito?}
-\label{sec:orgc36f29c}
+\label{sec:orgdb7ca6a}
 \subsection{{\bfseries\sffamily TODO} Interessados [100\%]}
-\label{sec:orgf9b3475}
+\label{sec:org0ebcf17}
 \begin{itemize}
 \item[{$\boxtimes$}] Ana Paula Jakubów (Ex-UERJ; LAPAL/PUC-Rio)
 \item[{$\boxtimes$}] Mercedes Marcilese (NEALP/UFJF)
@@ -142,14 +139,14 @@ Protocolo do experimento no Comitê de Ética número 000.
 \end{itemize}
 
 \subsection{{\bfseries\sffamily TODO} Potenciais interessados [0\%]}
-\label{sec:org61bfbe1}
+\label{sec:orgd5a76bc}
 \begin{itemize}
 \item[{$\square$}] Érica Rodrigues (LAPAL/PUC-Rio)
 \item[{$\square$}] Mahayana Godoy (UFRN)
 \end{itemize}
 
 \section{Afazeres [0\%]}
-\label{sec:orgb9b290d}
+\label{sec:orgebfb5bc}
 \begin{itemize}
 \item[{$\square$}] Definir os interessados em contribuir para a elaboração do projeto
 \item[{$\square$}] Finalizar a proposta
